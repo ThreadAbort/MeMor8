@@ -1,2 +1,3 @@
-Moved to
-[https://github.com/8b-is/MeM-8?tab=readme-ov-file]
+Please contact 8b.IS for information.  
+
+I apologize that the code had to be removed.
